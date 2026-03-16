@@ -1,4 +1,4 @@
-// #![cfg(feature = "live-tests")]
+#![cfg(feature = "live-tests")]
 
 use chess_dot_com::api::client::ApiClient;
 
